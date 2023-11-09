@@ -5,6 +5,11 @@
       "taskLabel": "task-CypressAutomation",
       "appliesTo": "/",
       "type": "launch"
+    },
+    {
+      "taskLabel": "task-CypressAutomation",
+      "appliesTo": "/",
+      "type": "launch"
     }
   ]
 }
