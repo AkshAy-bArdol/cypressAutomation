@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\cypress",
+    "\\cypress\\downloads",
+    "\\cypress\\e2e",
+    "\\cypress\\fixtures",
+    "\\cypress\\reports",
+    "\\cypress\\reports\\html",
+    "\\cypress\\support"
   ],
-  "SelectedNode": "\\C:\\Users\\akshaybardol\\CypressAutomation",
+  "SelectedNode": "\\cypress\\e2e\\Better.cy.js",
   "PreviewInSolutionExplorer": false
 }

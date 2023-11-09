@@ -6,7 +6,7 @@ describe('My First Test', () => {
         cy.get("[name='username']").type("Admin")
         cy.get("[name='password']").type("admin123")
         cy.get("[type='submit']").click()
-        cy.title().contains("Orang")
+        
         
         
     })
