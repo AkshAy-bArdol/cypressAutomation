@@ -2,13 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\cypress",
-    "\\cypress\\downloads",
     "\\cypress\\e2e",
     "\\cypress\\fixtures",
     "\\cypress\\reports",
     "\\cypress\\reports\\html",
-    "\\cypress\\support"
+    "\\cypress\\support",
+    "\\cypress\\videos"
   ],
-  "SelectedNode": "\\cypress\\e2e\\Better.cy.js",
+  "SelectedNode": "\\cypress",
   "PreviewInSolutionExplorer": false
 }
